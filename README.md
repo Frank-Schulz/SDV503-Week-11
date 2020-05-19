@@ -78,7 +78,8 @@ finishing condition was unreachable, the recursive function would
 attempt to continue forever. They are, in essence, very similar to 
 foreach loops.
 
-![alt text] (https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.cdn.geeksforgeeks.org%2Fwp-content%2Fuploads%2FRecursive-Functions-in-c.png&f=1&nofb=1 "Recursive Function Diagram")
+### Diagram for recursive function
+![alt text] (https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.cdn.geeksforgeeks.org%2Fwp-content%2Fuploads%2FRecursive-Functions-in-c.png "Recursive Function Diagram")
 
 Using recursion over iteration allows us to cut back variable usage.
 However it is very easy to make these functions loop infinitely, 
