@@ -27,9 +27,13 @@ Node {
 2. Hash Tables; a hash table has a structure similar to an object {} 
 in that it stores data with an assigned key. Though in the case of 
 hash tables the key values are usually numerical.
+This does however make them vulnerable to Hash Table Collisions, 
+which is when a Hash Function returns the same hash for multiple 
+values.
 
 3. Stacks and Queues are similar to arrays but differ in how the data 
-is stored and/or removed.
+is stored and/or removed. Linked lists can be used with these for 
+greater functionality.
 
 
 ## Task 2:
